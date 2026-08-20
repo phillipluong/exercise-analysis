@@ -1,0 +1,11 @@
+level,count
+"{'Beginner', 'Advanced', 'Intermediate', 'Novice'}",310
+"{'Beginner', 'Intermediate', 'Novice'}",204
+"{'Intermediate', 'Novice'}",193
+"{'Advanced', 'Intermediate'}",173
+"{'Advanced', 'Intermediate', 'Novice'}",158
+{'Intermediate'},158
+"{'Beginner', 'Novice'}",56
+{'Novice'},46
+{'Beginner'},31
+{'Advanced'},31
